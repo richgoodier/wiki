@@ -2,6 +2,8 @@
 
 This project, part of the CS50W curriculum, is designed to create a Wikipedia-like online encyclopedia.
 
+#### Video Demo: <https://youtu.be/hQhobCuLF3c>
+
 ## Overview
 The project provides a lightweight online encyclopedia, similar to Wikipedia, where users can search, view, create and edit entries. Each entry is stored in Markdown format, making it more human-friendly to write and edit. 
 
